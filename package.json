@@ -1,0 +1,25 @@
+{
+  "name": "fendablog",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "depoly": "depoly.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiniwo/newblog.git"
+  },
+  "keywords": [
+    "vue",
+    "javaScript"
+  ],
+  "author": "walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiniwo/newblog/issues"
+  },
+  "homepage": "https://github.com/hiniwo/newblog#readme"
+}
