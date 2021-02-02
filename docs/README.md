@@ -2,7 +2,7 @@
 home: true
 lang: zh-CN
 heroText: A  Personal Blog
-heroImage: /logo.png
+heroImage: https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4e0c4231ab114f2482870c8aced074af~tplv-k3u1fbpfcp-watermark.image
 actionText: 开始 →
 actionLink: /interview/
 features:

@@ -12,9 +12,9 @@ $ npm install -g vuepress
 
 ```sh
 # 本地开发
-$ npm run docs:dev
+$ npm run dev
 
 # 打包发布
-$npm run docs:build
+$npm run depoly
 ```
 
